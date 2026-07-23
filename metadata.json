@@ -1,0 +1,6 @@
+{
+  "name": "Desi Pizza Restaurant",
+  "description": "An interactive, beautifully styled digital menu and simulator for Desi Pizza Restaurant. Explore authentic desi pizza flavors like Chicken Tikka, Beef Kabab, and Achari Paneer, customize your toppings, calculate prices, and simulate order placement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
